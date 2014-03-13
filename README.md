@@ -3,7 +3,7 @@ skynet2
 
 # To do
 
-* fork this
-* add collaborators
+* fork this DONE!
+* add collaborators  DONE!
 * clone to your laptop
 * work!
